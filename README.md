@@ -53,13 +53,14 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shashwatk806&show_icons=true&locale=en" alt="Shashwatk806" width="48%" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashwatk806" alt="Shashwatk806" width="48%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shashwatk806&show_icons=true&locale=en&theme=dark" alt="Shashwatk806" width="48%" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashwatk806&theme=dark" alt="Shashwatk806" width="48%" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwatk806&layout=compact&langs_count=8&theme=dark" alt="Most Used Languages" width="50%" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shashwatk806&show_icons=true&locale=en&layout=compact" alt="Shashwatk806" width="50%" />
-</p>
+
 
 
 
