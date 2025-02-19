@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/shashwat_codes" target="_blank">
+  <a href="https://twitter.com/shashwat" target="_blank">
     <img src="https://img.shields.io/twitter/follow/shashwat_codes?logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>
 </p>
@@ -20,8 +20,8 @@
 - 🔭 **Building scalable backends & MERN stack applications**  
 - 💡 **Solved 200+ problems on LeetCode** (Data Structures & Algorithms)  
 - 💬 **Ask me about:** Backend Development, MongoDB, Node.js, and DSA  
-- 📫 **How to reach me:** shashwat.bca.dev@gmail.com  
-- ⚡ **Fun fact:** "I find debugging more satisfying than coding itself!"  
+- 📫 **How to reach me:** shashwatk806@gmail.com 
+- ⚡ **Fun fact:** I find debugging more satisfying than coding itself!  
 
 ---
 
@@ -30,7 +30,6 @@
   <a href="https://twitter.com/shashwat_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/shashwat-kumar-000a5a319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/Shashwatk16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-  <a href="mailto:shashwatk806@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Email_Shiny_Icon.svg" alt="Gmail" height="30" width="40" /></a>
 </p>
 
 ---
@@ -51,16 +50,16 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashwatkumar-dev&theme=radical" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shashwatk806&show_icons=true&locale=en" alt="Shashwatk806" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashwatk806" alt="Shashwatk806" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shashwatkumar-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shashwatk806&show_icons=true&locale=en&layout=compact" alt="Shashwatk806" />
 </p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatkumar-dev&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
+
+
 
 ---
 
@@ -72,7 +71,7 @@
 
 ---
 
-### 🌟 Fun Projects
+### 🌟 Projects
 - 🌐 **[E-Commerce API](https://github.com/shashwatkumar-dev/ecommerce-api):** Scalable backend for an online store  
 - 🌐 **[Blogify](https://github.com/shashwatkumar-dev/blogify):** A modern blogging platform built using MERN stack  
 - 🌐 **[Task Manager](https://github.com/shashwatkumar-dev/task-manager):** A full-featured task management system  
@@ -86,8 +85,6 @@
 - 🔥 Passionate about **writing clean & optimized code**  
 
 ---
-
-✨ **Building scalable systems, one API at a time!** 🚀  
 
  
  
