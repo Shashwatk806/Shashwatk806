@@ -9,7 +9,7 @@
 
 <p align="left">
   <a href="https://twitter.com/shashwat" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/shashwat_codes?logo=twitter&style=for-the-badge" alt="Twitter" />
+    <img src="https://img.shields.io/twitter/follow/shashwat_codes?logo=twitter&style=for-the-badge" alt="Linkedin" />
   </a>
 </p>
 
