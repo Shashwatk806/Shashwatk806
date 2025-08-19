@@ -12,9 +12,7 @@
     <img src="https://img.shields.io/twitter/follow/shashwat_codes?logo=twitter&style=for-the-badge" alt="Linkedin" />
   </a>
 </p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwatk806&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
 
 ---
 
